@@ -1,0 +1,1 @@
+docker run --name nodejs-app-demo -e name="test" -p 8080:8080 -d nodejs-app

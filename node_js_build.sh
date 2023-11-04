@@ -1,0 +1,1 @@
+docker build -t nodejs-app -f ./node_js.Dockerfile .
