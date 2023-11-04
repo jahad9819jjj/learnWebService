@@ -1,9 +1,18 @@
 # learnWebService
 
 ## Launch
+
+### Nginx
 ```
-sh build.sh
-sh run.sh
+sh nginx_build.sh
+sh nginx_run.sh
+```
+
+
+### Node.js
+```
+sh node_js_build.sh
+sh node_js_run.sh
 ```
 
 ## Delete
